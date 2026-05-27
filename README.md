@@ -1,2 +1,7 @@
 # BatchFiles
-Some of my random batch files i made
+-----------
+
+These are some batch files i made they are not super impressive 
+but these are functional 
+
+- Spicetify Install
