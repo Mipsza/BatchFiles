@@ -6,4 +6,5 @@ but these are functional
 
 - Spicetify Install
 - Matrix Rain
+- Number Guesser
 - System Tool
